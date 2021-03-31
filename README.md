@@ -2,9 +2,9 @@
 
 This project provides methods to mange pagination over given array. This project contains a comprehensive set of unit test to simulate the pagination. 
 ## Pre-Requirments
-Java
-Eclipse (Or any Java IDE)
-Git
+- Java
+- Git
+- Eclipse (Or any Java IDE)
 
 ## Clone this project
 You need to have git installed in your comptuere. Then crete a directory somewhere, open a Terminal there and execute the following command to clone the project.
