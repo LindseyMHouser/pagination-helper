@@ -1,7 +1,8 @@
 # Pagination Helper
 
 This project provides methods to mange pagination over given array. This project contains a comprehensive set of unit test to simulate the pagination. 
-## Pre-Requirments
+
+## Prerequisites
 - Java
 - Git
 - Eclipse (Or any Java IDE)
